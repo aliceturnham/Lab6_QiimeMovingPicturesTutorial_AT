@@ -5,7 +5,7 @@
 
 
 ml qiime2/2018.8
-export TMPDIR='/scratch/users/t-sprehei1@jhu.edu/tmp'
+export TMPDIR='/scratch/users/s-aturnha1@jhu.edu/tmp'
 export LC_ALL=en_US.utf-8
 export LANG=en_US.utf-8
 
